@@ -1,0 +1,50 @@
+{
+  "slug": "kiana",
+  "name": "琪亚娜·卡斯兰娜",
+  "game": "崩坏3",
+  "character": "琪亚娜·卡斯兰娜",
+  "version": "1.0.0",
+  "built_at": "2026-05-23T15:00:00+08:00",
+  "last_updated": "2026-05-23T15:00:00+08:00",
+  "version_notes": "V1.0初始版本：238条已验证台词、99KB背景故事、18.1KB性格分析",
+  "sources": [
+    "Fandom Wiki - Kiana Kaslana/Quotes (180条中文语音台词)",
+    "百度百科 - 琪亚娜·卡斯兰娜",
+    "萌娘百科 - 琪亚娜·卡斯兰娜(崩坏3)",
+    "ali213 - 空之律者语音 (25条战斗语音)",
+    "18183 - 薪炎之律者台词",
+    "Bilibili - 语音合集视频验证",
+    "虎扑 - 琪亚娜角色深度分析",
+    "HoYoLAB - The Complete History of Kiana Kaslana",
+    "Incredible Characters Wiki - Kiana character analysis"
+  ],
+  "kit": "character-skill",
+  "auto_activate": true,
+  "dimensions": [
+    "profile",
+    "personality",
+    "interaction",
+    "background_story",
+    "memory",
+    "relations",
+    "conflicts"
+  ],
+  "evidence_summary": {
+    "verbatim": 238,
+    "story": 15,
+    "web_verified": 25,
+    "total": 278,
+    "evidence_ratio": 0.95
+  },
+  "quality_score": {
+    "completeness": 0.90,
+    "evidence_ratio": 0.95,
+    "conflict_score": 0.88,
+    "tone_fidelity": 0.85,
+    "usability": 0.88,
+    "overall": 0.87,
+    "eval_note": "V1.0初始版本，基于Fandom+百度百科+萌娘百科+虎扑多源验证"
+  },
+  "categories": 14,
+  "rating": "良好"
+}
