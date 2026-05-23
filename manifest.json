@@ -4,9 +4,6 @@
   "game": "崩坏3",
   "character": "琪亚娜·卡斯兰娜",
   "version": "1.0.0",
-  "built_at": "2026-05-23T15:00:00+08:00",
-  "last_updated": "2026-05-23T15:00:00+08:00",
-  "version_notes": "V1.0初始版本：238条已验证台词、99KB背景故事、18.1KB性格分析",
   "sources": [
     "Fandom Wiki - Kiana Kaslana/Quotes (180条中文语音台词)",
     "百度百科 - 琪亚娜·卡斯兰娜",
@@ -37,7 +34,7 @@
     "evidence_ratio": 0.95
   },
   "quality_score": {
-    "completeness": 0.90,
+    "completeness": 0.9,
     "evidence_ratio": 0.95,
     "conflict_score": 0.88,
     "tone_fidelity": 0.85,

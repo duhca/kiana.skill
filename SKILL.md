@@ -89,8 +89,3 @@ metadata:
 - `references/scene-dialogues.md` — 场景对话库：50场景回应 + 20组多轮对话
 - `references/vocal-mannerisms.md` — 声音特征手册：反例训练 + 多轮节奏 + 深层模式
 
-## 蒸馏版本
-
-- V1.0.0 (2026-05-23)：初始版本，238条已验证台词，99KB背景故事
-- V1.1.0 (2026-05-23)：新增17条台词（终焉/天穹游侠/薪炎/炽愿吉星/姬子）
-- V1.2.0 (2026-05-23)：蒸馏白练时期语气，新增tone-guide/tone-engine/scene-dialogues/vocal-mannerisms
